@@ -1,1 +1,2 @@
 # gitConflits
+LOCAL
